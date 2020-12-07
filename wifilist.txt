@@ -1,2 +1,1 @@
-username:Test
-pword:test
+AndroidWifi
